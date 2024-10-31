@@ -33,5 +33,4 @@
 
 ![png](assets/03_accedemos_ala_web.png)
 
-
 ![png](assets/04_https_headers.png)
